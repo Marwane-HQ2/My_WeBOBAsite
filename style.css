@@ -1,0 +1,20 @@
+/**/
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+
+body {
+    font-family: Allura;
+    background-color: #E3F9A6;
+    color: #AA6C39;
+    text-align: center;
+}
+
+h1 {
+    color: #C19A6B;
+    font-size: 600%;
+    text-decoration: underline;
+}
+
+table {
+    width: 100%;
+    font-size: 200%;
+}
