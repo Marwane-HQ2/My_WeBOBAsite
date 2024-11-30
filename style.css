@@ -7,6 +7,11 @@ body {
     color: #AA6C39;
     text-align: center;
 }
+img {
+    width: 200px;
+    height: 200px;
+}
+
 
 h1 {
     color: #C19A6B;
